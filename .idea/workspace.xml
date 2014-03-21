@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa9d1174-bb8c-4558-82f1-c12a351c53fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pytest/s2-c1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pytest/ttt.py" />
+    <list default="true" id="aa9d1174-bb8c-4558-82f1-c12a351c53fd" name="Default" comment="test edit by luoguoling">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pybase/senior1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pybase/serverlist.conf" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Documents\GitHub\pybase\paramiko3.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Documents\GitHub\pybase\smtp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Documents\GitHub\pybase\smtp1.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pybase/paramiko1.py" afterPath="$PROJECT_DIR$/../pybase/paramiko1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pybase/paramiko2.py" afterPath="$PROJECT_DIR$/../pybase/paramiko2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pyproject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,73 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="s2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/s2.py">
+      <file leaf-file-name="mail.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="2204">
+            <state line="11" column="11" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1197">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Guiv1.0.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Guiv1.0.py">
+      <file leaf-file-name="mail1.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="296" column="17" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="5374" max-vertical-offset="10450">
-              <folding>
-                <element signature="e#14#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="s2-c1.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pytest/s2-c1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527">
+            <state line="44" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.093596056" vertical-offset="741" max-vertical-offset="1197">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pybase/db.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="551">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thread1.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pybase/b1/thread1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="11" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="703">
-              <folding>
-                <marker date="1394444532424" expanded="true" signature="29:72" placeholder="import ..." />
-                <marker date="1394444532424" expanded="true" signature="118:253" placeholder="..." />
-                <marker date="1394444532424" expanded="true" signature="265:671" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="threading1.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pybase/b1/threading1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="process1.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../pybase/b1/process1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="11" selection-start="0" selection-end="431" vertical-scroll-proportion="0.31799164" vertical-offset="0" max-vertical-offset="478">
-              <folding>
-                <element signature="e#29#64#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -118,6 +71,7 @@
         <entry key="$PROJECT_DIR$/../pytest" value="pytest" />
       </map>
     </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
   <component name="IdeDocumentHistory">
@@ -136,14 +90,30 @@
         <option value="$PROJECT_DIR$/../pybase/b1/thread.py" />
         <option value="$PROJECT_DIR$/../pybase/b1/threading.py" />
         <option value="$PROJECT_DIR$/../pybase/b1/process1.py" />
+        <option value="$PROJECT_DIR$/../pybase/b1/thread1.py" />
+        <option value="$PROJECT_DIR$/../pybase/senior1.py" />
+        <option value="$PROJECT_DIR$/../pybase/paramiko1.py" />
+        <option value="$PROJECT_DIR$/../pybase/serverlist.conf" />
+        <option value="C:/Python27/Lib/multiprocessing/pool.py" />
+        <option value="$PROJECT_DIR$/../pybase/paramiko3.py" />
+        <option value="$PROJECT_DIR$/../pybase/paramiko2.py" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/paramiko24.py" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/paramiko3.py" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/serverlist" />
+        <option value="$PROJECT_DIR$/../pybase/smtp2.py" />
+        <option value="$PROJECT_DIR$/../pytest/mail1.py" />
+        <option value="$PROJECT_DIR$/../pybase/smtp1.py" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/smtp.py" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/mail.py" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/mail1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="431" />
+    <option name="x" value="447" />
+    <option name="y" value="249" />
     <option name="width" value="1400" />
-    <option name="height" value="892" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -152,7 +122,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -185,6 +155,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pytest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="pybase" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -199,7 +179,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b1" />
+              <option name="myItemId" value="pybase" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,52 +221,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\pybase" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\pybase\pybase" />
       <recent name="C:\Users\Administrator\Documents\GitHub\pyproject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\pybase\pybase" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\pybase" />
       <recent name="C:\Users\Administrator\Documents\GitHub\pytest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.process1">
-    <configuration default="false" name="Guiv1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyproject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guiv1.0.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ttt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pytest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pytest/ttt.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="db" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mail">
+    <configuration default="false" name="paramiko3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -298,43 +244,79 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pybase" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/db.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Documents\GitHub\pybase\pybase\paramiko3.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="paramiko24" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase/b1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase/pybase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pybase" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Documents\GitHub\pybase\b1\thread1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/pybase/paramiko24.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="process1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="mail1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase/b1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytest" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pytest/mail1.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="smtp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pybase" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/b1/process1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Documents\GitHub\pybase\pybase\mail.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase/pybase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pybase" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/pybase/mail.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -461,20 +443,60 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Guiv1.0" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ttt" />
-      <item index="2" class="java.lang.String" itemvalue="Python.db" />
-      <item index="3" class="java.lang.String" itemvalue="Python.thread" />
-      <item index="4" class="java.lang.String" itemvalue="Python.process1" />
+    <configuration default="false" name="smtp1" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pybase" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/smtp1.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="paramiko2" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pybase" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/paramiko2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.smtp1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.paramiko2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.paramiko3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.paramiko24" />
+      <item index="4" class="java.lang.String" itemvalue="Python.mail1" />
+      <item index="5" class="java.lang.String" itemvalue="Python.smtp" />
+      <item index="6" class="java.lang.String" itemvalue="Python.mail" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.process1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.thread" />
-        <item index="2" class="java.lang.String" itemvalue="Python.db" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ttt" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Guiv1.0" />
+        <item index="0" class="java.lang.String" itemvalue="Python.mail" />
+        <item index="1" class="java.lang.String" itemvalue="Python.smtp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mail1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.paramiko24" />
+        <item index="4" class="java.lang.String" itemvalue="Python.paramiko3" />
       </list>
     </recent_temporary>
   </component>
@@ -559,31 +581,59 @@
       <created>1393941529507</created>
       <updated>1393941529508</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="test edit by luoguoling">
+      <created>1394526819127</created>
+      <updated>1394526819127</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test edit by luoguoling">
+      <created>1394616931986</created>
+      <updated>1394616931986</updated>
+    </task>
+    <task id="LOCAL-00017" summary="paramiko ssh multiprocessing">
+      <created>1394766470798</created>
+      <updated>1394766470798</updated>
+    </task>
+    <task id="LOCAL-00018" summary="test edit by luoguoling">
+      <created>1395303810972</created>
+      <updated>1395303810972</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test edit by luoguoling">
+      <created>1395304051862</created>
+      <updated>1395304051862</updated>
+    </task>
+    <task id="LOCAL-00020" summary="test edit by luoguoling">
+      <created>1395304076428</created>
+      <updated>1395304076428</updated>
+    </task>
+    <task id="LOCAL-00021" summary="test edit by luoguoling">
+      <created>1395304209442</created>
+      <updated>1395304209442</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="431" width="1400" height="892" extended-state="1" />
+    <frame x="447" y="249" width="1400" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39873418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39747635" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35750636" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3170347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -610,57 +660,157 @@
     <MESSAGE value="this is t2222  20:34" />
     <MESSAGE value="this is t2222  20:3433333333333333333333333333333333333333333333333333" />
     <MESSAGE value="luoguoling" />
+    <MESSAGE value="paramiko ssh multiprocessing" />
     <MESSAGE value="test edit by luoguoling" />
     <option name="LAST_COMMIT_MESSAGE" value="test edit by luoguoling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pybase/paramiko2.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pybase/pybase/mail.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/s2.py">
+    <entry file="file://$PROJECT_DIR$/../pybase/serverlist.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="2204">
+        <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/serverlist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="4617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/paramiko1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="15" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/paramiko2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="31" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1083">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="34" selection-start="0" selection-end="1442" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="39" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="1159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/serverlist.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/serverlist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="38" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="4617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/multiserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/paramiko1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="38" selection-start="60" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="2204" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Guiv1.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="296" column="13" selection-start="8754" selection-end="8754" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="10450">
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="296" column="17" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="5374" max-vertical-offset="10450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pytest/s2-c1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527">
-          <folding />
-        </state>
+        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pybase/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="15" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="551">
-          <folding />
-        </state>
+        <state line="14" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="551" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/b1/thread1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="11" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/b1/threading1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/b1/process1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="0" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="2204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guiv1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="296" column="13" selection-start="8754" selection-end="8754" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="10450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytest/s2-c1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="15" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="551" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="25" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="8873">
-          <folding />
-        </state>
+        <state line="36" column="25" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="8873" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pybase/sftp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pytest/test.py">
@@ -675,9 +825,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../pytest/s2-c1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527">
-          <folding />
-        </state>
+        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pytest/t2.py">
@@ -692,23 +840,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="25" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="8740">
-          <folding />
-        </state>
+        <state line="36" column="25" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="8740" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="2185">
-          <folding />
-        </state>
+        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="2185" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pybase/sftp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="15" selection-start="44" selection-end="44" vertical-scroll-proportion="0.03264605" vertical-offset="0" max-vertical-offset="582">
-          <folding />
-        </state>
+        <state line="1" column="15" selection-start="44" selection-end="44" vertical-scroll-proportion="0.03264605" vertical-offset="0" max-vertical-offset="582" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pytest/ttt.py">
@@ -718,44 +860,111 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Guiv1.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="296" column="17" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="5374" max-vertical-offset="10450">
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="296" column="17" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="5374" max-vertical-offset="10450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pybase/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="551">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/thread1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="703">
-          <folding>
-            <marker date="1394444532424" expanded="true" signature="29:72" placeholder="import ..." />
-            <marker date="1394444532424" expanded="true" signature="118:253" placeholder="..." />
-            <marker date="1394444532424" expanded="true" signature="265:671" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/threading1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152">
-          <folding />
-        </state>
+        <state line="14" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="551" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pybase/b1/process1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="11" selection-start="0" selection-end="431" vertical-scroll-proportion="0.31799164" vertical-offset="0" max-vertical-offset="478">
+        <state line="4" column="12" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/b1/threading1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/b1/thread1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/senior1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.039748956" vertical-offset="0" max-vertical-offset="478" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Python27/Lib/site-packages/paramiko-1.12.1-py2.7.egg!/paramiko/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="0" selection-start="4227" selection-end="4227" vertical-scroll-proportion="0.37029287" vertical-offset="1647" max-vertical-offset="10051">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="8" selection-start="5014" selection-end="5014" vertical-scroll-proportion="0.50431776" vertical-offset="2710" max-vertical-offset="13889" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="34" selection-start="0" selection-end="1442" vertical-scroll-proportion="-0.022093024" vertical-offset="171" max-vertical-offset="1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/paramiko2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="31" selection-start="486" selection-end="486" vertical-scroll-proportion="0.027906977" vertical-offset="204" max-vertical-offset="1064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/multiserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="577" selection-end="577" vertical-scroll-proportion="0.3534884" vertical-offset="0" max-vertical-offset="860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/serverlist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="230" column="33" selection-start="7821" selection-end="7821" vertical-scroll-proportion="10.623153" vertical-offset="57" max-vertical-offset="4693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/serverlist.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="554">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="963" selection-end="963" vertical-scroll-proportion="-0.046798028" vertical-offset="532" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytest/mail1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="56" selection-start="0" selection-end="1537" vertical-scroll-proportion="0.3275862" vertical-offset="513" max-vertical-offset="1254">
           <folding>
-            <element signature="e#29#64#0" expanded="true" />
+            <element signature="e#52#66#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/paramiko1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="21" selection-start="176" selection-end="176" vertical-scroll-proportion="0.37438422" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="11" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1197">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.093596056" vertical-offset="741" max-vertical-offset="1197">
+          <folding />
         </state>
       </provider>
     </entry>
