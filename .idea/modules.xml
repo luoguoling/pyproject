@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/django/Flatpages/.idea/Flatpages.iml" filepath="D:/django/Flatpages/.idea/Flatpages.iml" />
+      <module fileurl="file://D:/django/django1/.idea/django1.iml" filepath="D:/django/django1/.idea/django1.iml" />
+      <module fileurl="file://C:/Python27/Scripts/djangodb/.idea/djangodb.iml" filepath="C:/Python27/Scripts/djangodb/.idea/djangodb.iml" />
+      <module fileurl="file://C:/Python27/Scripts/form/.idea/form.iml" filepath="C:/Python27/Scripts/form/.idea/form.iml" />
+      <module fileurl="file://D:/django/form1/.idea/form1.iml" filepath="D:/django/form1/.idea/form1.iml" />
+      <module fileurl="file://D:/django/login/.idea/login.iml" filepath="D:/django/login/.idea/login.iml" />
+      <module fileurl="file://D:/django/login1/.idea/login1.iml" filepath="D:/django/login1/.idea/login1.iml" />
+      <module fileurl="file://D:/django/mysite/.idea/mysite.iml" filepath="D:/django/mysite/.idea/mysite.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pybase/.idea/pybase.iml" filepath="$PROJECT_DIR$/../pybase/.idea/pybase.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pybase1/.idea/pybase1.iml" filepath="$PROJECT_DIR$/../pybase1/.idea/pybase1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pyproject.iml" filepath="$PROJECT_DIR$/.idea/pyproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pytest/.idea/pytest.iml" filepath="$PROJECT_DIR$/../pytest/.idea/pytest.iml" />
+      <module fileurl="file://D:/django/sblog/.idea/sblog.iml" filepath="D:/django/sblog/.idea/sblog.iml" />
     </modules>
   </component>
 </project>

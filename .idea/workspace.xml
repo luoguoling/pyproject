@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa9d1174-bb8c-4558-82f1-c12a351c53fd" name="Default" comment="test edit by luoguoling">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pybase/senior1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pybase/serverlist.conf" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Documents\GitHub\pybase\paramiko3.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Documents\GitHub\pybase\smtp.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Documents\GitHub\pybase\smtp1.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pybase/paramiko1.py" afterPath="$PROJECT_DIR$/../pybase/paramiko1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pybase/paramiko2.py" afterPath="$PROJECT_DIR$/../pybase/paramiko2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="aa9d1174-bb8c-4558-82f1-c12a351c53fd" name="Default" comment="test edit by luoguoling" />
+    <list id="7f6f5a91-f180-47e3-934a-37f6aaa47bd7" name="New changelist" comment="new change" />
     <ignored path="pyproject.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,19 +24,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mail.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail.py">
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="11" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1197">
+            <state line="8" column="10" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1064">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail1.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail1.py">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.093596056" vertical-offset="741" max-vertical-offset="1197">
+            <state line="11" column="0" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="19" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="171">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://D:/django/login1/login1/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="48" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.3357271" vertical-offset="668" max-vertical-offset="2052">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="16" selection-end="44" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="button.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/bootstrap_toolkit/templates/bootstrap_toolkit/button.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selec.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/selec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/django/login1/login1app/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="171">
               <folding />
             </state>
           </provider>
@@ -77,43 +141,65 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../pybase1/hello.py" />
-        <option value="$PROJECT_DIR$/../pytest/test.py" />
-        <option value="$PROJECT_DIR$/../pytest/t2.py" />
-        <option value="$PROJECT_DIR$/../pytest/t3.py" />
-        <option value="$PROJECT_DIR$/../pybase/db.py" />
-        <option value="$PROJECT_DIR$/s2.py" />
-        <option value="$PROJECT_DIR$/../pytest/s2-c1.py" />
-        <option value="$PROJECT_DIR$/Guiv1.0.py" />
-        <option value="$PROJECT_DIR$/../pytest/ttt.py" />
-        <option value="$PROJECT_DIR$/../pybase/sftp.py" />
-        <option value="$PROJECT_DIR$/../pybase/b1/thread.py" />
-        <option value="$PROJECT_DIR$/../pybase/b1/threading.py" />
-        <option value="$PROJECT_DIR$/../pybase/b1/process1.py" />
-        <option value="$PROJECT_DIR$/../pybase/b1/thread1.py" />
-        <option value="$PROJECT_DIR$/../pybase/senior1.py" />
-        <option value="$PROJECT_DIR$/../pybase/paramiko1.py" />
-        <option value="$PROJECT_DIR$/../pybase/serverlist.conf" />
-        <option value="C:/Python27/Lib/multiprocessing/pool.py" />
-        <option value="$PROJECT_DIR$/../pybase/paramiko3.py" />
-        <option value="$PROJECT_DIR$/../pybase/paramiko2.py" />
-        <option value="$PROJECT_DIR$/../pybase/pybase/paramiko24.py" />
-        <option value="$PROJECT_DIR$/../pybase/pybase/paramiko3.py" />
-        <option value="$PROJECT_DIR$/../pybase/pybase/serverlist" />
-        <option value="$PROJECT_DIR$/../pybase/smtp2.py" />
-        <option value="$PROJECT_DIR$/../pytest/mail1.py" />
-        <option value="$PROJECT_DIR$/../pybase/smtp1.py" />
-        <option value="$PROJECT_DIR$/../pybase/pybase/smtp.py" />
-        <option value="$PROJECT_DIR$/../pybase/pybase/mail.py" />
-        <option value="$PROJECT_DIR$/../pybase/pybase/mail1.py" />
+        <option value="D:/django/login/login_app/templates/login.html" />
+        <option value="D:/django/login/login_app/views.py" />
+        <option value="D:/django/login/templates/login.html" />
+        <option value="D:/django/mysite/mysite/urls.py" />
+        <option value="D:/django/mysite/blog/models.py" />
+        <option value="D:/django/mysite/blog/templates/archive.html" />
+        <option value="D:/django/mysite/blog/templates/新建文本文档.txt" />
+        <option value="D:/django/login1/login1app/forms.py" />
+        <option value="D:/django/login1/login1app/templates/index.html" />
+        <option value="D:/django/login1/login1app/templates/login.html" />
+        <option value="D:/django/login/login/settings.py" />
+        <option value="D:/django/login1/login1/settings.py" />
+        <option value="D:/django/login1/login1app/models.py" />
+        <option value="D:/django/mysite/blog/urls.py" />
+        <option value="D:/django/login1/login1app/templates/archive.html" />
+        <option value="D:/django/login1/login1/urls.py" />
+        <option value="D:/django/login1/login1app/templates/sel.py" />
+        <option value="D:/django/login1/login1app/selec.py" />
+        <option value="D:/django/mysite/blog/views.py" />
+        <option value="D:/django/login1/login1app/views.py" />
+        <option value="$PROJECT_DIR$/../pytest/aab.py" />
+        <option value="D:/django/mysite/mysite/settings.py" />
+        <option value="D:/django/Flatpages/Flatpages/settings.py" />
+        <option value="D:/django/sblog/blog/admin.py" />
+        <option value="D:/django/sblog/blog/url.py" />
+        <option value="D:/django/sblog/blog/models.py" />
+        <option value="D:/django/sblog/blog/urls.py" />
+        <option value="D:/django/sblog/templates/blog/blog_show.html" />
+        <option value="D:/django/sblog/templates/blog/blog_base.html" />
+        <option value="D:/django/sblog/templates/blog/blog_list.html" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/xml4.py" />
+        <option value="$PROJECT_DIR$/../pybase/xml4.py" />
+        <option value="D:/django/sblog/refering" />
+        <option value="D:/django/sblog/sblog/urls.py" />
+        <option value="D:/django/sblog/templates/base.html" />
+        <option value="D:/django/sblog/blog/views.py" />
+        <option value="D:/django/sblog/templates/index.html" />
+        <option value="D:/django/sblog/sblog/settings.py" />
+        <option value="D:/django/sblog/blog/forms.py" />
+        <option value="D:/django/sblog/templates/blog_add.html" />
+        <option value="D:/django/form1/form1app/models.py" />
+        <option value="D:/django/form1/templates/form1.html" />
+        <option value="D:/django/form1/form1app/forms.py" />
+        <option value="D:/django/form1/form1/settings.py" />
+        <option value="D:/django/form1/templates/form1_show.html" />
+        <option value="D:/django/form1/form1/urls.py" />
+        <option value="D:/django/form1/form1app/views.py" />
+        <option value="$PROJECT_DIR$/../pybase/pybase/xml5.py" />
+        <option value="$PROJECT_DIR$/../pybase/config/aispeak.xml" />
+        <option value="$PROJECT_DIR$/../pybase/config/cavalry.xml" />
+        <option value="$PROJECT_DIR$/../pybase/xml5.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="447" />
-    <option name="y" value="249" />
-    <option name="width" value="1400" />
-    <option name="height" value="740" />
+    <option name="x" value="15" />
+    <option name="y" value="379" />
+    <option name="width" value="1250" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -141,6 +227,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,7 +242,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pytest" />
+              <option name="myItemId" value="login1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -165,7 +252,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pybase" />
+              <option name="myItemId" value="login1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login1app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -175,21 +266,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pybase" />
+              <option name="myItemId" value="login1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pybase" />
+              <option name="myItemId" value="login1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="D:/django/project1" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -213,6 +303,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="846" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -221,9 +312,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Documents\GitHub\pybase" />
-      <recent name="C:\Users\Administrator\Documents\GitHub\pybase\pybase" />
-      <recent name="C:\Users\Administrator\Documents\GitHub\pyproject" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\pybase\config" />
+      <recent name="D:\django\sblog\static" />
+      <recent name="D:\django\login1\login1app\templates" />
+      <recent name="D:\django\login1" />
+      <recent name="D:\django\login1\login1app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Documents\GitHub\pybase\pybase" />
@@ -231,44 +324,26 @@
       <recent name="C:\Users\Administrator\Documents\GitHub\pytest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mail">
-    <configuration default="false" name="paramiko3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.xml5">
+    <configuration default="false" name="selec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase" />
+      <option name="WORKING_DIRECTORY" value="D:/django/login1/login1app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pybase" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Documents\GitHub\pybase\pybase\paramiko3.py" />
+      <module name="login1" />
+      <option name="SCRIPT_NAME" value="D:/django/login1/login1app/selec.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="paramiko24" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase/pybase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pybase" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/pybase/paramiko24.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="mail1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="aab" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -280,13 +355,15 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pytest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pytest/mail1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pytest/aab.py" />
       <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="smtp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="xml4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -298,25 +375,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pybase" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Documents\GitHub\pybase\pybase\mail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/xml4.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="forms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase/pybase" />
+      <option name="WORKING_DIRECTORY" value="D:/django/sblog/blog" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pybase" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/pybase/mail.py" />
+      <module name="sblog" />
+      <option name="SCRIPT_NAME" value="D:/django/sblog/blog/forms.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -443,6 +520,24 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="xml5" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pybase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pybase" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pybase/xml5.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="smtp1" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -482,21 +577,20 @@
       <method />
     </configuration>
     <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Python.smtp1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.paramiko2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.paramiko3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.paramiko24" />
-      <item index="4" class="java.lang.String" itemvalue="Python.mail1" />
-      <item index="5" class="java.lang.String" itemvalue="Python.smtp" />
-      <item index="6" class="java.lang.String" itemvalue="Python.mail" />
+      <item index="0" class="java.lang.String" itemvalue="Python.xml5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.smtp1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.paramiko2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.selec" />
+      <item index="4" class="java.lang.String" itemvalue="Python.aab" />
+      <item index="5" class="java.lang.String" itemvalue="Python.xml4" />
+      <item index="6" class="java.lang.String" itemvalue="Python.forms" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mail" />
-        <item index="1" class="java.lang.String" itemvalue="Python.smtp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mail1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.paramiko24" />
-        <item index="4" class="java.lang.String" itemvalue="Python.paramiko3" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.forms" />
+        <item index="1" class="java.lang.String" itemvalue="Python.xml4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.aab" />
+        <item index="3" class="java.lang.String" itemvalue="Python.selec" />
       </list>
     </recent_temporary>
   </component>
@@ -522,6 +616,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aa9d1174-bb8c-4558-82f1-c12a351c53fd" name="Default" comment="" />
+      <changelist id="7f6f5a91-f180-47e3-934a-37f6aaa47bd7" name="New changelist" comment="new change" />
       <created>1393919455693</created>
       <updated>1393919455693</updated>
     </task>
@@ -609,32 +704,56 @@
       <created>1395304209442</created>
       <updated>1395304209442</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="test edit by luoguoling">
+      <created>1395372835156</created>
+      <updated>1395372835156</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="249" width="1400" height="740" extended-state="0" />
+    <frame x="15" y="379" width="1250" height="712" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39747635" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1936791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3968504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3170347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31653544" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3968504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31653544" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1904376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-    </layout>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31653544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -674,296 +793,325 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/../pybase/pybase/mail.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pybase/pybase/mail.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pybase/pybase/mail.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pybase/pybase/mail.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pybase/pybase/mail.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pytest/urllib.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/django/login1/login1app/selec.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../pybase/xml4.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../pybase/serverlist.conf">
+    <entry file="file://$PROJECT_DIR$/../pybase/config/bangOccupy.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
+        <state line="2" column="110" selection-start="236" selection-end="247" vertical-scroll-proportion="0.0952381" vertical-offset="0" max-vertical-offset="399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/boss.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="239" selection-start="494" selection-end="503" vertical-scroll-proportion="0.098445594" vertical-offset="0" max-vertical-offset="386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/buff.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="328" selection-start="2526" selection-end="2534" vertical-scroll-proportion="0.34455958" vertical-offset="0" max-vertical-offset="21565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/buttonState.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="32" selection-start="38" selection-end="43" vertical-scroll-proportion="0.04761905" vertical-offset="0" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/bz_chuanWen.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="15" selection-start="18" selection-end="26" vertical-scroll-proportion="0.04761905" vertical-offset="0" max-vertical-offset="456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/cavalry.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="107" selection-start="962" selection-end="962" vertical-scroll-proportion="0.42857143" vertical-offset="0" max-vertical-offset="494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/chan.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="34" selection-start="7089" selection-end="7089" vertical-scroll-proportion="1.4274611" vertical-offset="0" max-vertical-offset="2451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/changeCost.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="841" selection-end="841" vertical-scroll-proportion="0.19689119" vertical-offset="0" max-vertical-offset="386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/chapter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="555" selection-end="555" vertical-scroll-proportion="0.19689119" vertical-offset="0" max-vertical-offset="386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/chargeCost.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="895" selection-end="895" vertical-scroll-proportion="0.19689119" vertical-offset="0" max-vertical-offset="386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/xml5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/cheng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="8" selection-start="700" selection-end="700" vertical-scroll-proportion="0.6666667" vertical-offset="0" max-vertical-offset="399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pybase/config/chuangguan.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="714" column="32" selection-start="34286" selection-end="34286" vertical-scroll-proportion="0.0" vertical-offset="13427" max-vertical-offset="13813" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/form1/form1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="1" selection-start="1484" selection-end="1484" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1919" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/blog/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/mysite/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/mysite/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="11" selection-start="1917" selection-end="1917" vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="2071" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="39" selection-start="77" selection-end="110" vertical-scroll-proportion="-3.392857" vertical-offset="0" max-vertical-offset="456" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/templates/blog_add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="16" selection-start="363" selection-end="363" vertical-scroll-proportion="-9.5" vertical-offset="0" max-vertical-offset="589" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/templates/blog/blog_base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="28" selection-start="289" selection-end="289" vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="703" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="27" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/mysite/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login/bootstrap_toolkit/widgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="39" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="2622" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/sblog/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="11" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="573" max-vertical-offset="2128" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="912" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="22" selection-start="1083" selection-end="1089" vertical-scroll-proportion="-14.928572" vertical-offset="228" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login/login/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="2128" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login/login_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="21" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="741" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login/templates/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/mysite/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login/login_app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/form1/form1app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/form1/form1app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/django1/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/mysite/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/sblog/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="24" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="758" selection-end="758" vertical-scroll-proportion="-8.821428" vertical-offset="228" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login1/login1app/templates/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login1/login1app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://D:/django/login1/login1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/serverlist">
+    <entry file="file://D:/django/login1/login1/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="37" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="4617">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/paramiko1.py">
+    <entry file="file://D:/django/login1/login1app/selec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="15" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="646">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/paramiko2.py">
+    <entry file="file://D:/django/login1/login1app/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1083">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko24.py">
+    <entry file="file://D:/django/login1/login1app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="0" selection-end="1442" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1159" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="39" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="1159">
+        <state line="11" column="0" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/serverlist.conf">
+    <entry file="file://D:/django/login1/login1app/bootstrap_toolkit/templates/bootstrap_toolkit/button.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/serverlist">
+    <entry file="file://D:/django/login1/login1app/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="38" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="4617">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/multiserver.py">
+    <entry file="file://D:/django/login1/login1app/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="418" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/paramiko1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="60" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="665">
+        <state line="11" column="19" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/s2.py">
+    <entry file="file://D:/django/login1/login1app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="2204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Guiv1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="296" column="17" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="5374" max-vertical-offset="10450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/s2-c1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="551" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/thread1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="703" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/threading1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/process1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="11" selection-start="0" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="456" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="2204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Guiv1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="296" column="13" selection-start="8754" selection-end="8754" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="10450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/s2-c1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="15" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="551" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="25" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="8873" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/sftp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.09965035" vertical-offset="0" max-vertical-offset="572" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/s2-c1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="15" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/t2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.07450981" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/t3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="31" selection-start="60" selection-end="60" vertical-scroll-proportion="0.037254903" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="25" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="8740" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="38" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="2185" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/sftp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="15" selection-start="44" selection-end="44" vertical-scroll-proportion="0.03264605" vertical-offset="0" max-vertical-offset="582" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/ttt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="74" selection-end="74" vertical-scroll-proportion="0.09223301" vertical-offset="0" max-vertical-offset="412" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Guiv1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="296" column="17" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="5374" max-vertical-offset="10450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="551" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/process1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/threading1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/b1/thread1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/senior1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.039748956" vertical-offset="0" max-vertical-offset="478" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Python27/Lib/site-packages/paramiko-1.12.1-py2.7.egg!/paramiko/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="0" selection-start="4227" selection-end="4227" vertical-scroll-proportion="0.37029287" vertical-offset="1647" max-vertical-offset="10051">
+        <state line="8" column="10" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1064">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/multiprocessing/pool.py">
+    <entry file="file://D:/django/login1/login1app/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="8" selection-start="5014" selection-end="5014" vertical-scroll-proportion="0.50431776" vertical-offset="2710" max-vertical-offset="13889" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko24.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="0" selection-end="1442" vertical-scroll-proportion="-0.022093024" vertical-offset="171" max-vertical-offset="1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/paramiko2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="486" selection-end="486" vertical-scroll-proportion="0.027906977" vertical-offset="204" max-vertical-offset="1064">
+        <state line="1" column="0" selection-start="16" selection-end="44" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/multiserver.py">
+    <entry file="file://D:/django/login1/login1/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="577" selection-end="577" vertical-scroll-proportion="0.3534884" vertical-offset="0" max-vertical-offset="860" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/serverlist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="230" column="33" selection-start="7821" selection-end="7821" vertical-scroll-proportion="10.623153" vertical-offset="57" max-vertical-offset="4693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/serverlist.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="554">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/paramiko3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="15" selection-start="963" selection-end="963" vertical-scroll-proportion="-0.046798028" vertical-offset="532" max-vertical-offset="1140">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pytest/mail1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="56" selection-start="0" selection-end="1537" vertical-scroll-proportion="0.3275862" vertical-offset="513" max-vertical-offset="1254">
-          <folding>
-            <element signature="e#52#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/paramiko1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="176" selection-end="176" vertical-scroll-proportion="0.37438422" vertical-offset="0" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="11" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1197">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pybase/pybase/mail1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.093596056" vertical-offset="741" max-vertical-offset="1197">
+        <state line="45" column="48" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.3357271" vertical-offset="668" max-vertical-offset="2052">
           <folding />
         </state>
       </provider>

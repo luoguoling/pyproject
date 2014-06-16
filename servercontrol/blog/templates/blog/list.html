@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+{% csrf_token %}
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+</head>
+<body>
+{%for blog in list %}
+<div style="border-bottom:1px dotted #ccc;">
+    <h3>{{blog.title}}</h3>
+    <p>{{blog.content}}</p>
+    <p><a href="{% url 'blog_add'%}">添加</a><a href="{% url 'blog_update' blog.id %}">修改</a></p>
+        <a href="{% url 'blog_delete' blog.id %}" onclick="return confirm('你确定要删除吗')">删除</a>
+</div>
+{%endfor%}
+</body>
+</html>

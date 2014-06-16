@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>测试服</title>
+     {% load bootstrap_toolkit %}
+     {% bootstrap_stylesheet_tag %}
+
+</head>
+<body>
+<h1><p align="center">测试服务器管理</h1></p>
+<form action="" method="post">
+    {% csrf_token %}
+   <h4 style="color:blue" style="font-size:200%">秦美人国内
+    <input type="text" name="ip" value="125.90.196.204" placeholder="Text input"/>
+    <input type="text" name="value" onclick="WdatePicker()" placeholder="调解服务器时间" class="span3" />
+    <input type="submit" name="value" value="重启游戏" onclick="return confirm('确定重启吗')" class="btn btn-primary" />
+    <input type="submit" name="value" value="更新版本" onclick="return confirm('确定更新版本吗')" class="btn btn-primary"/>
+    <input type="submit" name="value" value="当前时间" class="btn btn-primary" />
+    <input type="submit" value="提交请求" onclick="return confirm('确定修改时间吗')" class="btn btn-primary"/>
+    {{result}}
+    </h4>
+</form>
+<form action="" method="post">
+    {% csrf_token %}
+
+
+    <h4 style="color:blue" style="font-size:200%">秦美人韩国
+    <input type="text" name="ip" value="182.162.168.151"/>
+    <script language="javascript" type="text/javascript" src="http://120.138.75.88/download/My97DatePicker/WdatePicker.js"></script>
+    <input type="text" name="value" onclick="WdatePicker()" placeholder="调解服务器时间" class="span3"/>
+    <input type="submit" name="value" value="重启游戏" class="btn btn-primary" />
+   <input type="submit" name="value" value="更新版本" onclick="return confirm('确定更新版本吗')" class="btn btn-primary"/>
+    <input type="submit" name="value" value="当前时间" class="btn btn-primary" />
+    <input type="submit" value="提交请求" onclick="return confirm('确定修改时间吗')" class="btn btn-primary"/>
+
+    </h4>
+
+</form>
+<form action="" method="post">
+    {% csrf_token %}
+   <h4 style="color:blue" style="font-size:200%">秦美人越南
+    <input type="text" name="ip" value="49.213.70.62" placeholder="Text input"/>
+    <input type="text" name="value" onclick="WdatePicker()" placeholder="调解服务器时间" class="span3"/>
+    <input type="submit" name="value" value="重启游戏" onclick="return confirm('确定重启吗')" class="btn btn-primary"  />
+    <input type="submit" name="value" value="更新版本" onclick="return confirm('确定更新版本吗')" class="btn btn-primary"/>
+    <input type="submit" name="value" value="当前时间" class="btn btn-primary" />
+    <input type="submit" value="提交请求" onclick="return confirm('确定修改时间吗')" class="btn btn-primary"/>
+    </h4>
+</form>
+<form action="" method="post">
+    {% csrf_token %}
+   <h4 style="color:blue" style="font-size:200%">秦美人南美
+    <input type="text" name="ip" value="210.72.225.85" placeholder="Text input"/>
+    <input type="text" name="value" onclick="WdatePicker()" placeholder="调解服务器时间" class="span3"/>
+    <input type="submit" name="value" value="重启游戏" onclick="return confirm('确定重启吗')" class="btn btn-primary"  />
+    <input type="submit" name="value" value="更新版本" onclick="return confirm('确定更新版本吗')" class="btn btn-primary"/>
+    <input type="submit" name="value" value="当前时间" class="btn btn-primary" />
+    <input type="submit" value="提交请求" onclick="return confirm('确定修改时间吗')" class="btn btn-primary"/>
+    </h4>
+</form>
+<form action="" method="post">
+    {% csrf_token %}
+   <h4 style="color:blue" style="font-size:200%">秦美人欧美
+    <input type="text" name="ip" value="207.198.106.114" placeholder="Text input"/>
+    <input type="text" name="value" onclick="WdatePicker()" placeholder="调解服务器时间" class="span3"/>
+    <input type="submit" name="value" value="重启游戏" onclick="return confirm('确定重启吗')" class="btn btn-primary"  />
+    <input type="submit" name="value" value="更新版本" onclick="return confirm('确定更新版本吗')" class="btn btn-primary"/>
+    <input type="submit" name="value" value="当前时间" class="btn btn-primary" />
+    <input type="submit" value="提交请求" onclick="return confirm('确定修改时间吗')" class="btn btn-primary"/>
+    </h4>
+</form>
+<form action="" method="post">
+    {% csrf_token %}
+   <h4 style="color:blue" style="font-size:200%">秦美人泰国
+    <input type="text" name="ip" value="202.60.196.191" placeholder="Text input"/>
+    <input type="text" name="value" onclick="WdatePicker()" placeholder="调解服务器时间" class="span3"/>
+    <input type="submit" name="value" value="重启游戏" onclick="return confirm('确定重启吗')" class="btn btn-primary"  />
+    <input type="submit" name="value" value="更新版本" onclick="return confirm('确定更新版本吗')" class="btn btn-primary"/>
+    <input type="submit" name="value" value="当前时间" class="btn btn-primary" />
+    <input type="submit" value="提交请求" onclick="return confirm('确定修改时间吗')" class="btn btn-primary"/>
+    </h4>
+</form>
+<form action="" method="post">
+    {% csrf_token %}
+   <h4 style="color:blue" style="font-size:200%">秦美人台湾
+    <input type="text" name="ip" value="210.61.161.5" placeholder="Text input"/>
+    <input type="text" name="value" onclick="WdatePicker()" placeholder="调解服务器时间" class="span3"/>
+    <input type="submit" name="value" value="重启游戏" onclick="return confirm('确定重启吗')" class="btn btn-primary"  />
+    <input type="submit" name="value" value="更新版本" onclick="return confirm('确定更新版本吗')" class="btn btn-primary"/>
+    <input type="submit" name="value" value="当前时间" class="btn btn-primary" />
+    <input type="submit" value="提交请求" onclick="return confirm('确定修改时间吗')" class="btn btn-primary"/>
+    </h4>
+</form>
+
+
+</body>
+</html>

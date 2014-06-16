@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/../pygame" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../pytest" vcs="Git" />
+    <mapping directory="D:/django/base" vcs="Git" />
   </component>
 </project>
 

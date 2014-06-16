@@ -7,6 +7,15 @@
     <orderEntry type="module" module-name="pytest" />
     <orderEntry type="module" module-name="pybase" />
     <orderEntry type="module" module-name="pybase1" />
+    <orderEntry type="module" module-name="login" />
+    <orderEntry type="module" module-name="django1" />
+    <orderEntry type="module" module-name="djangodb" />
+    <orderEntry type="module" module-name="form" />
+    <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="login1" />
+    <orderEntry type="module" module-name="Flatpages" />
+    <orderEntry type="module" module-name="sblog" />
+    <orderEntry type="module" module-name="form1" />
   </component>
 </module>
 
